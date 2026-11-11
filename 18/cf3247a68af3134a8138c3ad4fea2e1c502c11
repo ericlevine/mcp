@@ -1,0 +1,26 @@
+docs/backend-events.md
+  s_5b7742300c469f::t_bfee87e8727218 1-443
+  s_5b7742300c469f::t_a141b26c560c4d 444
+.env.example
+  s_5b7742300c469f::t_c3c796593b254c 43-51
+ARCHITECTURE.md
+  s_5b7742300c469f::t_594ebd6e6a8f22 60-62,74-75
+README.md
+  s_5b7742300c469f::t_d52fced5bbf74d 336-347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "18cf3247a68af3134a8138c3ad4fea2e1c502c11",
+  "prompts": {},
+  "sessions": {
+    "s_5b7742300c469f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dafe9264-5233-43c3-8258-2ee3d4efbc79",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Eric Levine <eric@clawvisor.com>"
+    }
+  }
+}
