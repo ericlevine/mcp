@@ -1,0 +1,25 @@
+src/wakeshift.ts
+  s_5b7742300c469f::t_dc4c2f3ecf4efe 64-69,315,318,364,455,464,475
+test/wakeshift.test.mjs
+  s_5b7742300c469f::t_fcc1257fec52ef 360-361,376
+test/wakeshift-e2e.test.mjs
+  s_5b7742300c469f::t_442143bda158bd 346-348
+docs/backend-events.md
+  s_5b7742300c469f::t_b7bdacb1eda22b 35-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "9cb2952c776e2481a6aa0795a589a609d1aaf2b4",
+  "prompts": {},
+  "sessions": {
+    "s_5b7742300c469f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dafe9264-5233-43c3-8258-2ee3d4efbc79",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Eric Levine <eric@clawvisor.com>"
+    }
+  }
+}
