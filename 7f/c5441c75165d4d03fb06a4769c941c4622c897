@@ -1,0 +1,19 @@
+test/wakeshift.test.mjs
+  s_5b7742300c469f::t_2893c3054a3252 379-389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "7fc5441c75165d4d03fb06a4769c941c4622c897",
+  "prompts": {},
+  "sessions": {
+    "s_5b7742300c469f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dafe9264-5233-43c3-8258-2ee3d4efbc79",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Eric Levine <eric@clawvisor.com>"
+    }
+  }
+}
