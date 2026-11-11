@@ -1,0 +1,37 @@
+src/backend-events.ts
+  s_5b7742300c469f::t_4e60aba982d31a 1-152
+test/wakeshift.test.mjs
+  s_5b7742300c469f::t_410669b7c74933 1-20,24-211,240-246,251-259,261-263,265-266,268-280,292-303,305-309,312-428,578-654
+src/wakeshift.ts
+  s_5b7742300c469f::t_1215b1921b744a 1-30,32-36,39-71,76-77,92-93,95-99,108-115,125,132-315,318-326,347-413,416-486,489-495
+  s_5b7742300c469f::t_0f4d65f93b68b8 496-515
+package-lock.json
+  s_5b7742300c469f::t_e96f9f8e3b262c 13,16,18,272-300,1637-1639,1642
+package.json
+  s_5b7742300c469f::t_6ee7cd7e388b45 36,39,41
+src/http.ts
+  s_5b7742300c469f::t_711c8c7b2cf465 23-24,84-86,89-129,131-133,141-142,312-314,316-317,333-336,340-341
+src/index.ts
+  s_5b7742300c469f::t_da585f375786d3 91-92,822,837,3592-3593,3987-3988,4667-4670,4709-4711
+src/mcp-modern.ts
+  s_5b7742300c469f::t_58321ed9ea2ce3 20,196-199,202-203
+test/wakeshift-e2e.test.mjs
+  s_5b7742300c469f::t_a245b370d7852b 1-23,29-139,143-147,155-226,229-230,232-282,284-310,312-320,322-331,333-338,340-353,355-360
+  s_5b7742300c469f::t_b4e9d079095499 401-404,406
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "d25cdddcb39347f07d69f5dc3a3ecff46a24fa7e",
+  "prompts": {},
+  "sessions": {
+    "s_5b7742300c469f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dafe9264-5233-43c3-8258-2ee3d4efbc79",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Eric Levine <eric@clawvisor.com>"
+    }
+  }
+}
