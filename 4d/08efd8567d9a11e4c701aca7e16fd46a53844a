@@ -1,0 +1,33 @@
+docs/backend-events.md
+  s_9a74d2be86245b::t_e9f44ffdd35436 25,132-135,229-231,362-370
+src/wakeshift.ts
+  s_544a93350d8a1d::t_e8bfa051efbffe 5,14,72-75,77-79,175,238,265-268,290-299,374-376,429-431,495-497
+test/wakeshift-e2e.test.mjs
+  s_544a93350d8a1d::t_58b574d854bab8 5-7,58-62,64-65,86-88,95-96,102-105,120-126,128-140,314,317,323-326,329,332,345,357,373,387-388,391,416,424
+test/wakeshift.test.mjs
+  s_544a93350d8a1d::t_457926aba5996c 160-163,165-168,179,182,186-190,288-289,326,407-414,489,633-635
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "4d08efd8567d9a11e4c701aca7e16fd46a53844a",
+  "prompts": {},
+  "sessions": {
+    "s_544a93350d8a1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "22b25001-c599-426e-818d-cd0fccdfe2d3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Eric Levine <eric@clawvisor.com>"
+    },
+    "s_9a74d2be86245b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f052ff1-59e9-461e-b019-7fbf6e160ae7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Eric Levine <eric@clawvisor.com>"
+    }
+  }
+}
